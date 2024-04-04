@@ -1,0 +1,26 @@
+{
+  "name": "backend-basics-2",
+  "version": "1.0.0",
+  "description": "a repository for learning backend development",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Backend-Basics-2"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "anuj samdariya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
